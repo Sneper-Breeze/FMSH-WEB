@@ -31,10 +31,6 @@
    border-radius: 5px;
 }
 
-#calcButtonReset {
-   background-color: brown;
-}
-
 .calc-btn:hover,
 #calcButtonResult:hover {
    cursor: pointer;
